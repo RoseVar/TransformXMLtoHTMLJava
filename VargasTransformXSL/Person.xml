@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persons SYSTEM "Person.dtd">
+<persons>
+    <person nif="12345678Z">
+        <firstname>John</firstname>
+        <surname>Smith</surname>
+        <age>23</age>
+        <phone>955555555</phone>
+        <phone>699669966</phone>
+        <address>
+            <city>Barcelona</city>
+            <road type="street">Mallorca</road>
+            <number>44</number>
+            <floor>3</floor>
+            <door>1</door>
+        </address>
+    </person>
+    <person nif="23456789A">
+        <firstname>Barry</firstname>
+        <surname>Allen</surname>
+        <age>30</age>
+        <phone>555203020</phone>        
+        <address>
+            <city>Starling</city>
+            <road type="avenue">Industries</road>
+            <number>100</number>
+            <floor>1</floor>
+            <door>2</door>
+        </address>
+        <address>
+            <city>Starling</city>
+            <road type="street">Quicksand</road>
+            <number>20</number>
+            <floor>4</floor>
+            <door>A</door>
+        </address>
+    </person>
+    <person nif="34567890B">
+        <firstname>Kara</firstname>
+        <surname>Zorel</surname>
+        <age>28</age>
+        <phone>932635262</phone>
+        <phone>666332211</phone>          
+        <address>
+            <city>Metropolis</city>
+            <road type="square">Madison</road>
+            <number>234</number>
+            <floor>10</floor>
+            <door>1</door>
+        </address>
+        <address>
+            <city>Metropolis</city>
+            <road type="street">Superhero</road>
+            <number>11</number>
+            <floor>1</floor>
+            <door>3</door>
+        </address>
+    </person>
+    <person nif="45678901C">
+        <firstname>Oliver</firstname>
+        <surname>Queen</surname>
+        <age>32</age>               
+        <address>
+            <city>Star</city>
+            <road type="avenue">Archer</road>
+            <number>4</number>
+            <floor>1</floor>
+            <door>1</door>
+        </address>
+    </person>
+	<person nif="56789012D">
+        <firstname>Bruce</firstname>
+        <surname>Wayne</surname>
+        <age>40</age>
+        <phone>666554433</phone>       
+    </person>
+</persons>
